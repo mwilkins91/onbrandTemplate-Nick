@@ -1,3 +1,32 @@
+/** 
+ *  onBrand CSS – WARNING: Do not remove code block below.
+ */
+</style>
+    <link rel="stylesheet" href="//cihost.uberflip.com/<YOURFOLDERHERE>/client/client.css">
+    <link rel="stylesheet" href="//cihost.uberflip.com/<YOURFOLDERHERE>/onbrand.css">
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">-->
+<style>
+/* Add your CSS rules below */
+
+
+
+
+/** 
+ *  onBrand JS – WARNING: Do not remove code block below.
+ */
+}(window.jQuery, window.Hubs));
+</script>
+<script src="//cihost.uberflip.com/onBrand/libs/dist/onbrand-libs.js"></script>
+<script src="//cihost.uberflip.com/<YOURFOLDERHERE>/onbrand.js"></script>
+<script>
+(function($, Hubs, undefined) {
+/*  Add your JavaScript below */
+  
+  
+  
+  
+
+
 (function($, Hubs, undefined) {
   /** 
    *  Header & Footer Ajax
